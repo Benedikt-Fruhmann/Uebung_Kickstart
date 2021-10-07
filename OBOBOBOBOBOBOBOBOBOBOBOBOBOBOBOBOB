@@ -1,0 +1,49 @@
+[33mcommit b9233d34b46e6ae30847a664f95af41b9adc56c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fruhmann <benedikt.fruhmann@accenture.com>
+Date:   Thu Oct 7 13:17:34 2021 +0200
+
+    Ein Bild unseres Gottes
+
+[33mcommit 698b48bdf7e95c27b2101d319d2d8552cdbf446a[m
+Merge: c60a14c bf24336
+Author: Fruhmann <benedikt.fruhmann@accenture.com>
+Date:   Thu Oct 7 13:14:56 2021 +0200
+
+    Kaiser Bene
+
+[33mcommit c60a14cc625ef6d249cbb1d901dffbe251a144b3[m
+Author: Fruhmann <benedikt.fruhmann@accenture.com>
+Date:   Thu Oct 7 13:13:35 2021 +0200
+
+    Leberkaese
+
+[33mcommit bf24336498d9040f983cde510a2440e7c476b081[m
+Merge: 7b890b8 2bfa952
+Author: Hoffmann <tim.a.hoffmann@accenture.com>
+Date:   Thu Oct 7 11:11:11 2021 +0200
+
+    Merge branch 'main' of https://github.com/Benedikt-Fruhmann/Uebung_Kickstart
+
+[33mcommit 7b890b878e05a39c7c41e2efff380ad9106afad8[m
+Author: Hoffmann <tim.a.hoffmann@accenture.com>
+Date:   Thu Oct 7 11:10:42 2021 +0200
+
+    Hinzufügen von Text-Datei
+
+[33mcommit 2bfa95262f1c983759d6c136aa266f7c5b1ed728[m
+Author: Emmrich <paul.emmrich@accenture.com>
+Date:   Thu Oct 7 10:53:17 2021 +0200
+
+    Paul war hier!
+
+[33mcommit a5443b25a1f33a573618c2e1cbdad8eee5d1700d[m
+Author: Fruhmann <benedikt.fruhmann@accenture.com>
+Date:   Thu Oct 7 10:32:44 2021 +0200
+
+    Test
+
+[33mcommit 96beddc31516be040332c805cc2b896868600d49[m
+Author: Benedikt-Fruhmann <92082012+Benedikt-Fruhmann@users.noreply.github.com>
+Date:   Thu Oct 7 09:57:23 2021 +0200
+
+    Initial commit
